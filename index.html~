@@ -1,4 +1,9 @@
 <html>
-
-
+  <head>
+    <title>Website Example</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Example website</h1>
+  </body>
 </html>
